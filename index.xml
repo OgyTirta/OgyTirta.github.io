@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Justblog</title>
+    <link>/</link>
+    <description>Recent content on Justblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2020, Ogy Tirta ; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 02 Sep 2020 13:54:19 +0800</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kenapa Menggunakan Linux ?</title>
+      <link>/post/kenapa-menggunakan-linux/</link>
+      <pubDate>Wed, 02 Sep 2020 13:54:19 +0800</pubDate>
+      
+      <guid>/post/kenapa-menggunakan-linux/</guid>
+      <description>Hi there Baik sesuai judul, kali ini saya akan membahas Kenapa saya Menggunakan Linux ?. Sejak pertama kali merasakan bangku SMK, saya sendiri menggunakan OS terbaru pada notebook saya yaitu Windows 7, OS terbaru pada jaman-nya. Pada saat itu saya belum mengetahu tentang OS ori/bajakan bahkan untuk praktikum di sekolah saja taunya cuma install ulang windows tanpa tahu itu windows ori/bajakan. Saya mengenal linux pada saat praktikum instalasi OS opensource yang pada saat itu linux yang saya tau hanya debian dan turunannya yaitu ubuntu.</description>
+    </item>
+    
+    <item>
+      <title>Pacman Arch</title>
+      <link>/post/pacman-arch/</link>
+      <pubDate>Tue, 01 Sep 2020 16:47:24 +0800</pubDate>
+      
+      <guid>/post/pacman-arch/</guid>
+      <description>Manajer paket (seperti apt pada Debian) resmi untuk Arch Linux adalah pacman. Pacman menggabungkan format paket biner sederhana dengan sistem build yang mudah digunakan. Tujuan pacman adalah memungkinkan untuk mengelola paket dengan mudah. Repositori paket dan server cermin dapat diramban di situs web resmi Arch. Arch Linux juga menyediakan repositori berbasis komunitas untuk para pengguna Arch yang disebut Arch User Repository (AUR). Ini berisi deskripsi paket yang memungkinkan penggunanya untuk mengkompilasi paket dari sumber dan kemudian memasangnya melalui pacman.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hi there Justblog adalah sebuah blog yang berisi catatan dari hal-hal dasar tentang linux, pemrograman serta analisis dan desain.
+Author dari justblog ? $adalah = [ $this-&amp;gt;name = &amp;#34;Ogy Tirta&amp;#34;, $this-&amp;gt;nickName = &amp;#34;Ogy&amp;#34;, $this-&amp;gt;email = &amp;#34;o.tirta72@gmail.com&amp;#34;, ] Kenapa membuat justblog ? Saya membuat blog ini sebagai media untuk menyimpan semua pengalaman belajar saya. Sekaligus untuk menyebarkan ilmu bagi siapapun yang membutuhkan. Saya berharap saya tidak malas untuk terus menulis di blog ini ditengah-tengah kesibukan saya hehe.</description>
+    </item>
+    
+  </channel>
+</rss>

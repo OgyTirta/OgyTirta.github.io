@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on Justblog</title>
+    <link>/tags/linux/</link>
+    <description>Recent content in linux on Justblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2020, Ogy Tirta ; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 02 Sep 2020 13:54:19 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kenapa Menggunakan Linux ?</title>
+      <link>/post/kenapa-menggunakan-linux/</link>
+      <pubDate>Wed, 02 Sep 2020 13:54:19 +0800</pubDate>
+      
+      <guid>/post/kenapa-menggunakan-linux/</guid>
+      <description>Hi there Baik sesuai judul, kali ini saya akan membahas Kenapa saya Menggunakan Linux ?. Sejak pertama kali merasakan bangku SMK, saya sendiri menggunakan OS terbaru pada notebook saya yaitu Windows 7, OS terbaru pada jaman-nya. Pada saat itu saya belum mengetahu tentang OS ori/bajakan bahkan untuk praktikum di sekolah saja taunya cuma install ulang windows tanpa tahu itu windows ori/bajakan. Saya mengenal linux pada saat praktikum instalasi OS opensource yang pada saat itu linux yang saya tau hanya debian dan turunannya yaitu ubuntu.</description>
+    </item>
+    
+    <item>
+      <title>Pacman Arch</title>
+      <link>/post/pacman-arch/</link>
+      <pubDate>Tue, 01 Sep 2020 16:47:24 +0800</pubDate>
+      
+      <guid>/post/pacman-arch/</guid>
+      <description>Manajer paket (seperti apt pada Debian) resmi untuk Arch Linux adalah pacman. Pacman menggabungkan format paket biner sederhana dengan sistem build yang mudah digunakan. Tujuan pacman adalah memungkinkan untuk mengelola paket dengan mudah. Repositori paket dan server cermin dapat diramban di situs web resmi Arch. Arch Linux juga menyediakan repositori berbasis komunitas untuk para pengguna Arch yang disebut Arch User Repository (AUR). Ini berisi deskripsi paket yang memungkinkan penggunanya untuk mengkompilasi paket dari sumber dan kemudian memasangnya melalui pacman.</description>
+    </item>
+    
+  </channel>
+</rss>
